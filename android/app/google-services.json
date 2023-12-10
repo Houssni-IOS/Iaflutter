@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104273612721",
+    "project_id": "tpia-d9461",
+    "storage_bucket": "tpia-d9461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104273612721:android:8757d919b254cf13a87790",
+        "android_client_info": {
+          "package_name": "com.example.tpiadev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY5RBELoW9GESyLjqresiHoQnv8nUG7c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
